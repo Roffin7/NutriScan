@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "943772556864",
+    "project_id": "cart-70210",
+    "storage_bucket": "cart-70210.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943772556864:android:0e259c768cce2ea74709a5",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTZ-RyLdE0KmSN5ZHaAu7lri0iDpn5Tu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943772556864:android:befac2def3347a264709a5",
+        "android_client_info": {
+          "package_name": "com.example.mind_weather_companion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTZ-RyLdE0KmSN5ZHaAu7lri0iDpn5Tu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943772556864:android:96f276bb61e157b64709a5",
+        "android_client_info": {
+          "package_name": "com.example.nutrifix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTZ-RyLdE0KmSN5ZHaAu7lri0iDpn5Tu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943772556864:android:e8fa86273cdadf244709a5",
+        "android_client_info": {
+          "package_name": "com.example.nutriscan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTZ-RyLdE0KmSN5ZHaAu7lri0iDpn5Tu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943772556864:android:460cc83b664dec5e4709a5",
+        "android_client_info": {
+          "package_name": "com.example.personality_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTZ-RyLdE0KmSN5ZHaAu7lri0iDpn5Tu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
