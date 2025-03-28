@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class ApiService {
-  static const String apiKey = "replac_your_key"; // 🔑 Your API Key
+  static const String apiKey = "replace_your_key"; // 🔑 Your API Key
   static const String baseUrl = "https://api.api-ninjas.com/v1/nutrition?query=";
 
   // Function to fetch nutrition data
